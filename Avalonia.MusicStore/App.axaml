@@ -11,5 +11,6 @@
   
     <Application.Styles>
         <FluentTheme />
+        <StyleInclude Source="avares://Avalonia.MusicStore/Assets/store_microsoft_regular.axaml" />
     </Application.Styles>
 </Application>

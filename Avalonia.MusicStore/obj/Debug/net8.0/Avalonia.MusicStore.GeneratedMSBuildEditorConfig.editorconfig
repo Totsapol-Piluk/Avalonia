@@ -24,5 +24,8 @@ build_property.EnableCodeStyleSeverity =
 [C:/Users/totsapol.p.GOFIVE/RiderProjects/AvaloniaLearning/Avalonia.MusicStore/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[C:/Users/totsapol.p.GOFIVE/RiderProjects/AvaloniaLearning/Avalonia.MusicStore/Assets/store_microsoft_regular.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [C:/Users/totsapol.p.GOFIVE/RiderProjects/AvaloniaLearning/Avalonia.MusicStore/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
