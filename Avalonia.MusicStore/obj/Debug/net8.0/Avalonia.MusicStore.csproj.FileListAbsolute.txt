@@ -67,3 +67,7 @@ C:\Users\totsapol.p.GOFIVE\RiderProjects\AvaloniaLearning\Avalonia.MusicStore\ob
 C:\Users\totsapol.p.GOFIVE\RiderProjects\AvaloniaLearning\Avalonia.MusicStore\obj\Debug\net8.0\Avalonia.MusicStore.genruntimeconfig.cache
 C:\Users\totsapol.p.GOFIVE\RiderProjects\AvaloniaLearning\Avalonia.MusicStore\obj\Debug\net8.0\ref\Avalonia.MusicStore.dll
 C:\Users\totsapol.p.GOFIVE\RiderProjects\AvaloniaLearning\Avalonia.MusicStore\obj\Debug\net8.0\Avalonia.MusicStore.sourcelink.json
+C:\Users\totsapol.p.GOFIVE\RiderProjects\AvaloniaLearning\Avalonia.MusicStore\bin\Debug\net8.0\DynamicData.dll
+C:\Users\totsapol.p.GOFIVE\RiderProjects\AvaloniaLearning\Avalonia.MusicStore\bin\Debug\net8.0\ReactiveUI.dll
+C:\Users\totsapol.p.GOFIVE\RiderProjects\AvaloniaLearning\Avalonia.MusicStore\bin\Debug\net8.0\Splat.dll
+C:\Users\totsapol.p.GOFIVE\RiderProjects\AvaloniaLearning\Avalonia.MusicStore\bin\Debug\net8.0\System.Reactive.dll
