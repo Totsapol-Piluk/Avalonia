@@ -66,3 +66,4 @@ C:\Users\totsapol.p.GOFIVE\RiderProjects\AvaloniaLearning\Avalonia.MusicStore\ob
 C:\Users\totsapol.p.GOFIVE\RiderProjects\AvaloniaLearning\Avalonia.MusicStore\obj\Debug\net8.0\Avalonia.8FDC18B9.Up2Date
 C:\Users\totsapol.p.GOFIVE\RiderProjects\AvaloniaLearning\Avalonia.MusicStore\obj\Debug\net8.0\Avalonia.MusicStore.genruntimeconfig.cache
 C:\Users\totsapol.p.GOFIVE\RiderProjects\AvaloniaLearning\Avalonia.MusicStore\obj\Debug\net8.0\ref\Avalonia.MusicStore.dll
+C:\Users\totsapol.p.GOFIVE\RiderProjects\AvaloniaLearning\Avalonia.MusicStore\obj\Debug\net8.0\Avalonia.MusicStore.sourcelink.json
